@@ -1,0 +1,6 @@
+PLANNING:This is where all the software requirements and feedbacks are gathered from customers, stakeholders like CTOs and other contributors.
+DEFINING: This is where software and specification requirements are documented. In software requirement and specification requirement all the data collected in the planning phase of the arr being docuented.
+DESIGNING: This is a very critical stage of the process as the high level design (HLD) and the low level designs (LLD) are being made. 
+BUILDING: At this stage the source code is written/developed and push to the git repo.
+TESTING: This is the phase where the Q.A team carries out tests after the source code is deployed from the git repo to the server.
+DEPLOYING: The application is deployed to the producttion environment and received by the customers at this phase.

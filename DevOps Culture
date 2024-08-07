@@ -1,2 +1,9 @@
 DevOps is coined from developers team (i.e Dev) and the operations team (i.e Ops). Their had been alot of argument whether DevOps is a tech niche on its own or not. It has been said to be a way of software delivery just like traditional waterfall and agile method of software delivery.
 DevOps is a culture/method/process that is employed by an organization to improve the organization's abilityto deliver a software/application. it's a process of improving the application delivery by ensuring that there's proper automation, good quality, continuous mentoring and continuous testing. It emerge to to improve the manual process of software or application delivery.
+DevOps is not only about using tools, rather it's aiming at using the tools to improve the organization's efficiency and the end goal is to delver a high quality product i.e application/software for the users. It is a set of standards that is followed in the software industry to design, develop and test applications to deliver a huge quality products to meet customers' expectations.
+DevOps process is a continuous one as it includes Planning, Defining, Designing, Building, Testing and Deploying.
+DevOps process are of three phases; Building phase, Testing phase and Deployment phase.
+Under the Building phase is where the development takes place and the source code is pushed to the Git repo either on github, bitbucket or any other version control system.
+In the Testing phase, the source code is deployed to the server and that's where the Q.A team carry out the test.
+In the Deployment phase, the application is deployed to the production environment where it is received by the customers
+DevOps is majorly about continuous integration (CI) and continuous delivery (CD). 
